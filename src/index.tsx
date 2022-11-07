@@ -1,4 +1,4 @@
-import { ActionPanel, Form, showToast, Action, Detail, Toast, getPreferenceValues, popToRoot, closeMainWindow, showHUD } from "@raycast/api";
+import { ActionPanel, Form, showToast, Action, Toast, getPreferenceValues, popToRoot, closeMainWindow, showHUD } from "@raycast/api";
 import { useState } from "react";
 import { Octokit } from 'octokit';
 // @ts-expect-error missing types
